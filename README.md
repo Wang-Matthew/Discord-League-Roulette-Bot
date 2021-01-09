@@ -9,4 +9,4 @@ The "$League?" message is what prompts the bot to do the coin flip and tell you 
 
 Enjoy! 
 
-- Matt
+-- Matt
